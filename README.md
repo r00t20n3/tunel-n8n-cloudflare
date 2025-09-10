@@ -214,7 +214,7 @@ LinkedIn: https://www.linkedin.com/in/frankrevops
 ---
 
 ## � License
-Add a license file (MIT recommended) if you plan to distribute. (Not included by default.)
+Do whatever you want!
 
 ---
 
